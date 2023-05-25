@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Website creation project**
 
-- 🌱 I’m currently learning **Full stack developer,Javascript, HTML,CSS**
+- 🌱 I’m currently learning **Full stack developer,Javascript, HTML,CSS, JavaScript**
 
-- 📫 How to reach me **priyadarshini.mapj@gmail.com**
+- 📫 How to reach me **priyadharshinim05283@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
